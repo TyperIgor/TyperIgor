@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-<!--
-**TyperIgor/TyperIgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently student on my last graduate year
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning .Net Microsservices
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about C# projects ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## Programming Languages
+
+![image](https://user-images.githubusercontent.com/46224297/160220563-31e10bd1-2945-408c-b29b-3c4bdf999c27.png)
+
 -->
