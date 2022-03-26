@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently student on my last graduate year :technologist:
+- 🔭 I’m currently concluding my last graduate year :technologist:
 
 - 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
 
+- i'm interested in racial algorithm analysis
 
 ## Programming Languages
 
