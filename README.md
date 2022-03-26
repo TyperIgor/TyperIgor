@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently student on my last graduate year
+- 🔭 I’m currently student on my last graduate year :technologist:
 
 - 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
 
