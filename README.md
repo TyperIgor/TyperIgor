@@ -4,7 +4,7 @@
 - 
 - 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
 -
-_  	:desktop_computer: 
+- :desktop_computer: I'm currently developing a software to analyse racists posts on twitter. This software i'm developing to my final college project. 
 
 ### Languages
 
