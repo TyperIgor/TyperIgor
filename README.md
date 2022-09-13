@@ -3,7 +3,7 @@
 - 🔭 I’m a graduand student at Salgado Oliveira University :technologist:
 - 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
 - :desktop_computer: I'm developing a software to analyse racists posts on twitter. This software is to my final college project. 
- - Link of the proeject : https://github.com/TyperIgor/Twitter-Analyses-TCC 
+  - Link of the project : https://github.com/TyperIgor/Twitter-Analyses-TCC 
 
 ### Languages
 
