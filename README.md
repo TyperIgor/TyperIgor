@@ -1,6 +1,6 @@
 ### Hellooo guys 👋
 
-- 🔭 I’m currently concluding my last graduate year :technologist:
+- 🔭 I’m a graduand student at Salgado Oliveira University :technologist:
 - 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
 - :desktop_computer: I'm developing a software to analyse racists posts on twitter. This software is to my final college project. 
 
