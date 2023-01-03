@@ -1,4 +1,4 @@
-### Hellooo guys 👋
+### Hellooo guys i'm Igor :) 👋
 
 - 🔭 I’m a graduand student at Salgado Oliveira University :technologist:
 - 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
