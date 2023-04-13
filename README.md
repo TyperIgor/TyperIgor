@@ -15,4 +15,4 @@
 
 
 ## Activity 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TyperIgor&bg_color=ffc2e2&color=000000&line=ff66f5&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TyperIgor&bg_color=ffc2e2&color=000000&line=ff66f5&point=050505&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
