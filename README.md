@@ -1,9 +1,10 @@
 ### Hellooo guys i'm Igor :) 👋
 
 - 🔭 I’m a graduand student at Salgado Oliveira University :technologist:
-- 🌱 I’m currently learning .Net Microsservices, Data structures, DDD, TDD, SOLID
-- :desktop_computer: I'm developing a software to analyse racists posts on twitter. This software is to my final college project. 
+- 🌱 I’m always studying new things about: .NET, Microsservices, Data structures, DDD, TDD, SOLID, Design Patterns and others.
+- :desktop_computer: I developed an application to analyse racists posts on twitter. This software was to my final college project. 
   - Link of the project : https://github.com/TyperIgor/Twitter-Analyses-TCC 
+  - In that application you will see: Good practices of Clean Architeture, Repository, Gateways, SOLID, External API calls, Twitter API tokens and such other things.
 
 ### Languages
           
