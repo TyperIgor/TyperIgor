@@ -1,6 +1,6 @@
 ### Hellooo guys i'm Igor :) 👋
 
-- 🔭 I’m a graduand student at Salgado Oliveira University :technologist:
+- 🔭 I have completed bachelor's degree at Salgado Oliveira University :technologist:
 - 🌱 I’m always studying new things about: .NET, Microsservices, Data structures, DDD, TDD, SOLID, Design Patterns and others.
 - :desktop_computer: I developed an application to analyse racists posts on twitter. This software was to my final college project. 
   - Link of the project : https://github.com/TyperIgor/Twitter-Analyses-TCC 
