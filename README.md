@@ -11,9 +11,6 @@
 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
-
-[![card](https://github-readme-stats.vercel.app/api?username=TyperIgor&theme=default)](https://github.com/TyperIgor/)  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=TyperIgor&hide=html&layout=compact&theme=default)](https://github.com/TyperIgor/)
-
-
 ## Activity 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TyperIgor&bg_color=ffc2e2&color=000000&line=ff66f5&point=050505&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TyperIgor&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
