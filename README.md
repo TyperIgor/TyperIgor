@@ -7,7 +7,10 @@
 - :desktop_computer: I developed an application to analyse racists posts on twitter. This software was to my final college project. 
   - Link of the project : https://github.com/TyperIgor/Twitter-Analyses-TCC 
   - In that application you will see: Good practices of Clean Architeture, Repository, Gateways, SOLID, External API calls, Twitter API tokens and such other things.
- 
+
+## Personal/My dance academy landing page
+- I created from scratch using Angular & Typescript a web landing page to expose my dance academy
+- link : https://www.nucleosetepontozero.com.br/
 
 ## Project Global Challenge 
 - I was challenged to develop an API in .NET 8 or higher with some CRUD operations to control iot devices in state of "in-use", "available" or "inactive".
